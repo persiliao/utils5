@@ -1,0 +1,17 @@
+{
+  "name": "persiliao/utils5",
+  "description": "A tools package that could help developer solved the problem quickly",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "PersiLiao\\Utils\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "PersiLiao",
+      "email": "xiangchu.liao@gmail.com"
+    }
+  ]
+}
